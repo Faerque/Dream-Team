@@ -9,6 +9,7 @@ const CartTotal = (props) => {
     return (
         <div className="total-box" >
             <h1> Total Budget: ${total} </h1>
+            <h4> Total Player: {cartTotal.length} </h4>
         </div>
     );
 };
