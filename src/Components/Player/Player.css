@@ -1,0 +1,11 @@
+.player-container{
+    display: flex;
+    border-bottom: 1px solid grey;
+}
+
+.player-details{
+    width: 60%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid grey;
+}
